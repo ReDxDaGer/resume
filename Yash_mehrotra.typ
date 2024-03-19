@@ -16,13 +16,7 @@
 == about.
 #chiline()
 
-Yash Mehrotra is a versatile technologist with expertise in web development, Android app development, and a strong passion for Artificial Intelligence and Machine Learning technologies. Currently pursuing a Bachelor of Science in Data Science
-and Applications, Yash has actively participated in several hackathons and was a finalist in the Smart India Hackathon.
-With hands-on experience in web and mobile application development, Yash has demonstrated proficiency in creating
-robust and user-friendly solutions that meet the unique needs of clients. Additionally, his enthusiasm for AI and ML drives
-him to explore and implement innovative algorithms and models to solve complex problems. A continuous learner, Yash
-actively seeks opportunities to enhance his skills and knowledge in technology and data science, reflecting his commitment
-to personal and professional growth and making him a valuable asset in the tech community. 
+Yash embodies a strong sense of commitment and drive, with a profound passion for web development, quant programming, machine learning, and contributing to technical content and community initiatives.
 
 == education.
 #chiline()
@@ -39,7 +33,7 @@ Intermediate , _Pure Science_ \
 *Google Developer Student Club - Indian Institute of Technology, Madras* #h(1fr) 01/2023 -- Present \
 Mentor, Linux and system commands
 - Became one of the founding volunteers for GDSC IITM’s Linux division
-- Hosted tech talk : Switching to Linux
+- Hosted tech talk : #link("https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/")[Switching to Linux]
 - Leading a community of 140+ in system commands, troubleshooting and OS related problems \
 
 == skills.
