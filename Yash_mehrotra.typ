@@ -48,7 +48,7 @@ Intermediate , _Pure Science_ \
 *Google Developer Student Club - Indian Institute of Technology, Madras* #h(1fr) 01/2023 -- Present \
 Mentor, Linux and system commands
 - Became one of the founding volunteers for GDSC IITM’s Linux division
-- Hosted tech talk : #link("https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/")[Switching to Linux] ,#link("")
+- Hosted tech talk : #link("https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/")[Switching to Linux] ,#link("https://www.linkedin.com/posts/yash-mehrotraiit_versioncontrol-git-github-activity-7186302932395397120-5t0H?utm_source=share&utm_medium=member_desktop")[Versioning Visions: Git , Github and Beyond]
 - Leading a community of 340+ in system commands, troubleshooting and OS related problems \
 
 == Achievements.
@@ -59,8 +59,6 @@ Mentor, Linux and system commands
 - Helped my team to get into the finals of SIH \
 - Developed a translation web app that converts English text to various Indian regional languages \
 - Optimized the entire codebase to improve performance and ensure smoother operation
-
-
 
 == Skills.
 #chiline()
@@ -104,4 +102,8 @@ Mentor, Linux and system commands
   ]
 )
 
+== Additional Skills
+#chiline()
 
+- Strong problem-solving abilities with experience in debugging complex issues.
+- Ability to quickly learn and adapt to new technologies and frameworks.
