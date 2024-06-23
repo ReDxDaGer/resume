@@ -36,7 +36,7 @@ Intermediate , _Pure Science_ \
 - Implemented a user-friendly interface with a clean design and easy navigation \
 - Optimized the entire codebase to improve performance and ensure smoother operation \
 
-*ChatWallah* #link("")[Project Link] #h(1fr) 03/2024 -- Present \
+*ChatWallah* #link("https://github.com/redxdager/Chatwallah")[Project Link] #h(1fr) 03/2024 -- Present \
 
 - Developed a chat application that allows users to communicate with each other in real-time while creating a random room \
 - Integrated WebSocket technology to ensure seamless real-time communication between users.
