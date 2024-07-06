@@ -8,10 +8,10 @@
 
 #let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
 
-= Yash Mehrotra
+#align(center)[= Yash Mehrotra]
 
-#link("mailto:yashmehrotra45@gmail.com")[yashmehrotra45\@gmail.com] |
-#link("https://github.com/redxdager")[github/redxdager]  | #link("https://www.linkedin.com/in/yash-mehrotraiit")[linkedin/yash-mehrotraiit] | #link("https://ifyash.vercel.app")[ifyash.vercel.app]
+#align(center)[#link("mailto:yashmehrotra45@gmail.com")[yashmehrotra45\@gmail.com] |
+#link("https://github.com/redxdager")[github/redxdager]| #link("https://www.linkedin.com/in/yash-mehrotraiit")[linkedin/yash-mehrotraiit] | #link("https://ifyash.vercel.app")[ifyash.vercel.app]]
 
 == About
 #chiline()
