@@ -10,100 +10,67 @@
 
 = Yash Mehrotra
 
-+91 7408842796 | #link("mailto:yashmehrotra45@gmail.com")[yashmehrotra45\@gmail.com] |
+#link("mailto:yashmehrotra45@gmail.com")[yashmehrotra45\@gmail.com] |
 #link("https://github.com/redxdager")[github/redxdager]  | #link("https://www.linkedin.com/in/yash-mehrotraiit")[linkedin/yash-mehrotraiit] | #link("https://ifyash.vercel.app")[ifyash.vercel.app]
 
-== About.
+== About
 #chiline()
+Yash embodies a strong sense of commitment and drive, with a profound passion for web development, quant program-
+ming, machine learning, and contributing to technical content and community initiatives.
 
-Yash embodies a strong sense of commitment and drive, with a profound passion for web development, quant programming, machine learning, and contributing to technical content and community initiatives.
-
-== Education.
+== Education
 #chiline()
 
 *Indian Institute of Technology Madras* #h(1fr) 09/2023 -- Present \
 Bachelor of Science, _Data Science and Applications_ \
 
 *St. James School , Hardoi* #h(1fr) 04/2009 -- 03/2023 \
-Intermediate , _Pure Science_ \
+Intermediate , _PCM_ (_CS_) \
 
-== Projects.
+== Projects
 #chiline()
-
-*BhashSarthi* #link("https://github.com/redxdager/bhashasarthi")[Project Link] #h(1fr) 12/2023 -- Present \
-
-- Developed a web app that converts English text to various Indian regional languages \
-- Implemented a user-friendly interface with a clean design and easy navigation \
-- Optimized the entire codebase to improve performance and ensure smoother operation \
 
 *ChatWallah* #link("https://github.com/redxdager/Chatwallah")[Project Link] #h(1fr) 03/2024 -- Present \
 
-- Developed a chat application that allows users to communicate with each other in real-time while creating a random room \
-- Integrated WebSocket technology to ensure seamless real-time communication between users.
-- Developed a backend server with Flask to handle chat room management and user sessions
+- Created a real-time chat application using *Flask* and *Socket.IO* for seamless user communication in random rooms \
+- Integrated *Socket.IO* to ensure efficient real-time messaging between users
+- Developed a backend server with *Flask* , *Python* and *sqlite* to manage chat rooms and user sessions
+
+*Zomato-Data-Analysis* #link("https://github.com/ReDxDaGer/Zomato-Data-Analysis/blob/main/Data-analysis.ipynb")[Project Link] #h(1fr) 05/2024 -- 06/2024 \
+
+- Analyzed Zomato data using *Pandas* and *Matplotlib* to identify trends and patterns in the food industry \
+- Visualized data using *Matplotlib* and *Seaborn* to provide insights into the food delivery market \
+- Created a detailed report with actionable recommendations for Zomato based on data analysis results
+
+*Face-Expression-Recognition* #link("https://github.com/redxdager/Face-Expression-Recognition")[Project Link] #h(1fr) 06/2024 -- 07/2024 \
+
+- Developed a facial expression recognition system using *YOLOv5* to detect seven emotional states: *angry*, *disgust*, *fear*, *happy*, *neutral*, *sad*, and *surprise* \
+- Implemented real-time emotion detection capabilities, achieving high accuracy in various lighting conditions and facial orientations \
+- Optimized the model for efficient performance, enabling quick and accurate emotion classification on diverse facial images \
 
 == Position of Responsibility.
 #chiline()
 
 *Google Developer Student Club - Indian Institute of Technology, Madras* #h(1fr) 01/2023 -- Present \
-Mentor, Linux and system commands
+_Linux Community Lead_ \
 - Became one of the founding volunteers for GDSC IITM’s Linux division
 - Hosted tech talk : #link("https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/")[Switching to Linux] ,#link("https://www.linkedin.com/posts/yash-mehrotraiit_versioncontrol-git-github-activity-7186302932395397120-5t0H?utm_source=share&utm_medium=member_desktop")[Versioning Visions: Git , Github and Beyond]
-- Leading a community of 340+ in system commands, troubleshooting and OS related problems \
+- Leading a community of 380+ in system commands, troubleshooting and OS related problems \
 
 == Achievements.
 #chiline()
 
 *Smart India Hackathon* #h(1fr) 10/2023 -- 12/2023 \
 
-- Helped my team to get into the finals of SIH \
+- Finalist of Smart India Hackathon \
 - Developed a translation web app that converts English text to various Indian regional languages \
 - Optimized the entire codebase to improve performance and ensure smoother operation
 
 == Skills.
 #chiline()
 
-#table(
-  columns: (auto, auto,auto,auto,auto),
-  inset: 10pt,
-  align: horizon,
-  table.header(
-    [*Programming Languages*], [*Web Frameworks*],[*Database*],[*Data science & Machine learning*] , [*Automation*]
-  ),
-  [
-    *Python*\
-    *C++* \
-    *Javascript* \
-    *Typescript*  \
-    
-  ],
-  [
-    *Node.js* \
-    *Express.js* \
-    *Flask* \
-    *NextJS* \
-  ],
-  [
-    *PostgreSQL* \
-    *MySQL* \
-    *SQLite* \
-  ],
-  [
-    *Numpy* \
-    *Pandas* \
-    *Matplotlib* \
-    *Seaborn* \
-  ],
-  [
-    *Git* \
-    *Github* \
-    *Bash* \
-    *Docker* \
-  ]
-)
-
-== Additional Skills
-#chiline()
-
-- Strong problem-solving abilities with experience in debugging complex issues.
-- Ability to quickly learn and adapt to new technologies and frameworks.
+- *Programming Languages*: Python , JavaScript , TypeScript , C++ , 
+- *Web-Dev Frameworks/Tools*: React.js , Flask , Next.js , Node.js , Express.js , Socket.IO 
+- *Databases*: MongoDB , SQLite , MySQL
+- *ML/DL*: NumPy , Pandas , Matplotlib , Seaborn , Scikit-learn , OpenCV , YOLOv5
+- *Automation*: Docker , Bash , Git , GitHub 
