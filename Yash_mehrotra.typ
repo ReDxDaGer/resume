@@ -48,7 +48,7 @@ Intermediate , _PCM_ (_CS_) \
 - Implemented real-time emotion detection capabilities, achieving high accuracy in various lighting conditions and facial orientations \
 - Optimized the model for efficient performance, enabling quick and accurate emotion classification on diverse facial images \
 
-== Position of Responsibility.
+== Position of Responsibility
 #chiline()
 
 *Google Developer Student Club - Indian Institute of Technology, Madras* #h(1fr) 01/2023 -- Present \
@@ -57,7 +57,7 @@ _Linux Community Lead_ \
 - Hosted tech talk : #link("https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/")[Switching to Linux] ,#link("https://www.linkedin.com/posts/yash-mehrotraiit_versioncontrol-git-github-activity-7186302932395397120-5t0H?utm_source=share&utm_medium=member_desktop")[Versioning Visions: Git , Github and Beyond]
 - Leading a community of 380+ in system commands, troubleshooting and OS related problems \
 
-== Achievements.
+== Achievements
 #chiline()
 
 *Smart India Hackathon* #h(1fr) 10/2023 -- 12/2023 \
@@ -66,7 +66,7 @@ _Linux Community Lead_ \
 - Developed a translation web app that converts English text to various Indian regional languages \
 - Optimized the entire codebase to improve performance and ensure smoother operation
 
-== Skills.
+== Skills
 #chiline()
 
 - *Programming Languages*: Python , JavaScript , TypeScript , C++ , 
