@@ -30,19 +30,22 @@ Intermediate , _PCM_ (_CS_) \
 == Projects
 #chiline()
 
-*ChatWallah* #link("https://github.com/redxdager/Chatwallah")[Project Link] #h(1fr) 03/2024 -- Present \
+*Chat Application Developer* #link("https://github.com/redxdager/Chatwallah")[Project Link] #h(1fr) 03/2024 -- Present \
+_ChatWallah_
 
 - Created a real-time chat application using *Flask* and *Socket.IO* for seamless user communication in random rooms \
 - Integrated *Socket.IO* to ensure efficient real-time messaging between users
 - Developed a backend server with *Flask* , *Python* and *sqlite* to manage chat rooms and user sessions
 
-*Zomato-Data-Analysis* #link("https://github.com/ReDxDaGer/Zomato-Data-Analysis/blob/main/Data-analysis.ipynb")[Project Link] #h(1fr) 05/2024 -- 06/2024 \
+*Data Analysis* #link("https://github.com/ReDxDaGer/Zomato-Data-Analysis/blob/main/Data-analysis.ipynb")[Project Link] #h(1fr) 05/2024 -- 06/2024 \
+_Zomato Data Analysis_
 
 - Analyzed Zomato data using *Pandas* and *Matplotlib* to identify trends and patterns in the food industry \
 - Visualized data using *Matplotlib* and *Seaborn* to provide insights into the food delivery market \
 - Created a detailed report with actionable recommendations for Zomato based on data analysis results
 
-*Face-Expression-Recognition* #link("https://github.com/redxdager/Face-Expression-Recognition")[Project Link] #h(1fr) 06/2024 -- 07/2024 \
+*Developed a facial expression recognition system* #link("https://github.com/redxdager/Face-Expression-Recognition")[Project Link] #h(1fr) 06/2024 -- 07/2024 \
+_Facial Expression Recognition_
 
 - Developed a facial expression recognition system using *YOLOv5* to detect seven emotional states: *angry*, *disgust*, *fear*, *happy*, *neutral*, *sad*, and *surprise* \
 - Implemented real-time emotion detection capabilities, achieving high accuracy in various lighting conditions and facial orientations \
