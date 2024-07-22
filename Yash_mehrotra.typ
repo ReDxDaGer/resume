@@ -13,10 +13,10 @@
 #align(center)[#link("mailto:yashmehrotra45@gmail.com")[yashmehrotra45\@gmail.com] |
 #link("https://github.com/redxdager")[github/redxdager]| #link("https://www.linkedin.com/in/yash-mehrotraiit")[linkedin/yash-mehrotraiit] | #link("https://ifyash.vercel.app")[ifyash.vercel.app]]
 
-== About
-#chiline()
-Yash embodies a strong sense of commitment and drive, with a profound passion for web development, quant program-
-ming, machine learning, and contributing to technical content and community initiatives.
+// == About
+// #chiline()
+// Yash embodies a strong sense of commitment and drive, with a profound passion for web development, quant program-
+// ming, machine learning, and contributing to technical content and community initiatives.
 
 == Education
 #chiline()
