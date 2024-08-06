@@ -19,7 +19,9 @@
 // ming, machine learning, and contributing to technical content and community initiatives.
 
 == Education
-#chiline()
+#line(
+  stroke: 1pt + gray,
+)
 
 *Indian Institute of Technology Madras* #h(1fr) 09/2023 -- Present \
 Bachelor of Science, _Data Science and Applications_ \
@@ -28,7 +30,9 @@ Bachelor of Science, _Data Science and Applications_ \
 Intermediate , _PCM_ (_CS_) \
 
 == Projects
-#chiline()
+#line(
+  stroke: 1pt + gray,
+)
 
 *Chat Application Developer* #link("https://github.com/redxdager/Chatwallah")[Project Link] #h(1fr) 03/2024 -- Present \
 _ChatWallah_
@@ -49,19 +53,23 @@ _Facial Expression Recognition_
 
 - Developed a facial expression recognition system using *YOLOv5* to detect seven emotional states: *angry*, *disgust*, *fear*, *happy*, *neutral*, *sad*, and *surprise* \
 - Implemented real-time emotion detection capabilities, achieving high accuracy in various lighting conditions and facial orientations \
-- Optimized the model for efficient performance, enabling quick and accurate emotion classification on diverse facial images \
+
 
 == Position of Responsibility
-#chiline()
+#line(
+  stroke: 1pt + gray,
+)
 
 *Google Developer Student Club - Indian Institute of Technology, Madras* #h(1fr) 01/2023 -- Present \
 _Linux Community Lead_ \
 - Became one of the founding volunteers for GDSC IITM’s Linux division
 - Hosted tech talk : #link("https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-technology-iit-chennai-presents-dumping-windows-welcome-to-linux/")[Switching to Linux] ,#link("https://www.linkedin.com/posts/yash-mehrotraiit_versioncontrol-git-github-activity-7186302932395397120-5t0H?utm_source=share&utm_medium=member_desktop")[Versioning Visions: Git , Github and Beyond]
-- Leading a community of 380+ in system commands, troubleshooting and OS related problems \
+- Leading a community of 400+ in system commands, troubleshooting and OS related problems \
 
 == Achievements
-#chiline()
+#line(
+  stroke: 1pt + gray,
+)
 
 *Smart India Hackathon* #h(1fr) 10/2023 -- 12/2023 \
 
@@ -70,10 +78,12 @@ _Linux Community Lead_ \
 - Optimized the entire codebase to improve performance and ensure smoother operation
 
 == Skills
-#chiline()
+#line(
+  stroke: 1pt + gray,
+)
 
-- *Programming Languages*: Python , JavaScript , TypeScript , C++ , 
-- *Web-Dev Frameworks/Tools*: React.js , Flask , Next.js , Node.js , Express.js , Socket.IO 
+- *Programming Languages*: Python , JavaScript , TypeScript , C++
+- *Web-Dev Frameworks/Tools*: React.js , Flask , Next.js , Node.js ,FastAPI
 - *Databases*: MongoDB , SQLite , MySQL
-- *ML/DL*: NumPy , Pandas , Matplotlib , Seaborn , Scikit-learn , OpenCV , YOLOv5
+- *ML/DL*: NumPy , Pandas , Matplotlib , Seaborn , Scikit-learn
 - *Automation*: Docker , Bash , Git , GitHub 
